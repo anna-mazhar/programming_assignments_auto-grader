@@ -9,3 +9,5 @@ Tasks that are performed by this grader:
    i) Programs that fail to compile e.g due to syntax error <br>
    ii) Programs that fail to execute e.g due to segmentation faults or exceptions <br>
    iii) Programs that are caught in infinite loops
+4) The tests results in the form of stdout are captured in a file and with string manipulation the relevant scores are stored.
+5) For every submission, a row is appended to the csv file.
